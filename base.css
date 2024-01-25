@@ -1,0 +1,78 @@
+.imm{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.intro{
+    width: 75%;
+    margin: auto;
+    color: #e3e0cd;
+    font-family: 'Kalnia', serif;
+}
+.tabless{
+    width: 40%;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #e3e0cd;
+    font-family: 'Kalnia', serif;
+}
+.LifeWorks{
+    width: 75%;
+    margin: auto;
+    color: #e3e0cd;
+    font-family: 'Kalnia', serif;
+}
+.CharacterMeditations{
+    width: 75%;
+    margin: auto;
+    color: #e3e0cd;
+    font-family: 'Kalnia', serif;
+}
+.Stoically{
+    width: 75%;
+    margin: auto;
+    color: #e3e0cd;
+    font-family: 'Kalnia', serif;
+}
+.DeliberativeContent{
+    width: 75%;
+    margin: auto;
+    color: #e3e0cd;
+    font-family: 'kalnia', serif;
+}
+.Justice{
+    width: 75%;
+    margin: auto;
+    color: #e3e0cd;
+    font-family: 'kalnia', serif;
+}
+.piety{
+    width: 75%;
+    margin: auto;
+    color: #e3e0cd;
+    font-family: 'kalnia', serif;
+}
+.ProvidenceAtoms{
+    width: 75%;
+    margin: auto;
+    color: #e3e0cd;
+    font-family: 'kalnia', serif;
+}
+.Impressions{
+    width: 75%;
+    margin: auto;
+    color: #e3e0cd;
+    font-family: 'kalnia', serif;
+}
+.conclusion{
+    width: 75%;
+    margin: auto;
+    color: #e3e0cd;
+    font-family: 'kalnia', serif;   
+}
+a{
+    color: #e3e0cd;
+}
+*{
+    background-color: #100c08 ;
+}
